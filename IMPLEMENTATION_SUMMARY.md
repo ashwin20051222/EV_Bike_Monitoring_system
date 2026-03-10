@@ -9,7 +9,7 @@ This package contains a **complete, production-ready codebase** for the yolorace
 ## 📋 Summary of Generated Files
 
 ### Documentation (6 files)
-✅ `README_YOLORACER.md` — Main project README with quick start
+✅ `README.md` — Main project README with quick start
 ✅ `docs/API_CONTRACT.md` — Complete REST API specification
 ✅ `docs/IMPLEMENTATION_ROADMAP.md` — 12-week development plan with tasks
 ✅ `docs/DEPLOYMENT_GUIDE.md` — Production deployment and DevOps guide
@@ -97,7 +97,7 @@ This package contains a **complete, production-ready codebase** for the yolorace
 ## 🚀 Next Steps
 
 ### Immediate (Week 1)
-1. **Read** `README_YOLORACER.md` for overview
+1. **Read** `README.md` for overview
 2. **Set up** Supabase project (create account, get credentials)
 3. **Configure** `.env.local` with Supabase credentials
 4. **Install** dependencies: `npm install`
@@ -150,7 +150,7 @@ yoloracer-pet/
 │   ├── IMPLEMENTATION_ROADMAP.md
 │   ├── DEPLOYMENT_GUIDE.md
 │   └── BACKEND_SERVER.ts
-├── README_YOLORACER.md     # Main README
+├── README.md               # Main README
 ├── .env.example
 └── package.json
 ```
@@ -303,7 +303,7 @@ supabase db reset        # Reset database
 
 | Item | Link |
 |------|------|
-| **Main README** | `README_YOLORACER.md` |
+| **Main README** | `README.md` |
 | **API Docs** | `docs/API_CONTRACT.md` |
 | **Development Plan** | `docs/IMPLEMENTATION_ROADMAP.md` |
 | **Deployment** | `docs/DEPLOYMENT_GUIDE.md` |
@@ -314,7 +314,7 @@ supabase db reset        # Reset database
 
 ## ✨ Next Action Items
 
-1. **Today**: Read `README_YOLORACER.md` and set up dev environment
+1. **Today**: Read `README.md` and set up dev environment
 2. **This week**: Configure Supabase and test frontend login
 3. **Next week**: Implement backend server from template
 4. **Following weeks**: Follow `IMPLEMENTATION_ROADMAP.md` phases

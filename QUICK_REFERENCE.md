@@ -58,7 +58,7 @@ npm run dev
 
 | File | Purpose | When to Use |
 |------|---------|------------|
-| `README_YOLORACER.md` | Main project info | First read! |
+| `README.md` | Main project info | First read! |
 | `IMPLEMENTATION_SUMMARY.md` | What was generated | Project overview |
 | `docs/API_CONTRACT.md` | REST API spec | Building backend/integrations |
 | `docs/IMPLEMENTATION_ROADMAP.md` | 12-week dev plan | Task breakdown |
@@ -228,7 +228,7 @@ Check:
 
 ### Today (30 mins)
 1. ✅ Read this guide
-2. ✅ Read `README_YOLORACER.md`
+2. ✅ Read `README.md`
 3. ✅ Set up `.env.local` with Supabase
 
 ### This Week (4 hours)
@@ -301,6 +301,6 @@ Everything is set up. All documentation is written. All code templates are provi
 
 Start with the quick start above, follow the roadmap, and reference the docs as needed.
 
-Questions? Check `README_YOLORACER.md` or `IMPLEMENTATION_ROADMAP.md`.
+Questions? Check `README.md` or `IMPLEMENTATION_ROADMAP.md`.
 
 **Happy coding! 💚**

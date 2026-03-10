@@ -4,7 +4,7 @@
 
 ### 📖 Main Documentation (6 files)
 ```
-README_YOLORACER.md
+README.md
 ├─ Project overview and feature list
 ├─ Quick start guide for frontend/backend setup
 ├─ Tech stack explanation
@@ -248,7 +248,7 @@ backend/
 ## 📋 Quick Start Checklist
 
 - [ ] Read `QUICK_REFERENCE.md` (5 mins)
-- [ ] Read `README_YOLORACER.md` (10 mins)
+- [ ] Read `README.md` (10 mins)
 - [ ] Set up `.env.local` with Supabase (5 mins)
 - [ ] Run `npm install` (2 mins)
 - [ ] Run `npm run dev` (1 min)
@@ -263,7 +263,7 @@ backend/
 
 1. **Start Here:**
    - Read `QUICK_REFERENCE.md`
-   - Read `README_YOLORACER.md`
+   - Read `README.md`
 
 2. **Set Up Dev Environment:**
    - Follow frontend setup in README
@@ -291,7 +291,7 @@ backend/
 
 | Need | File | Location |
 |------|------|----------|
-| Project overview | README_YOLORACER.md | `/` |
+| Project overview | README.md | `/` |
 | Quick start | QUICK_REFERENCE.md | `/` |
 | Implementation summary | IMPLEMENTATION_SUMMARY.md | `/` |
 | API documentation | API_CONTRACT.md | `/docs/` |
@@ -359,7 +359,7 @@ backend/
 ## 🚀 Ready to Build?
 
 1. Start with: `QUICK_REFERENCE.md`
-2. Then read: `README_YOLORACER.md`
+2. Then read: `README.md`
 3. Follow: `docs/IMPLEMENTATION_ROADMAP.md`
 4. Deploy using: `docs/DEPLOYMENT_GUIDE.md`
 
