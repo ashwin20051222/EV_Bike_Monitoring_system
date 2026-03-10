@@ -372,7 +372,7 @@ This project is licensed under the MIT License — see LICENSE file for details.
 For questions or issues:
 - Open a GitHub issue
 - Check [FAQ](docs/FAQ.md)
-- Email: support@yoloracer.pet
+- Email: ashwin.sukumar2005@gmail.com
 
 ---
 
@@ -392,3 +392,4 @@ For questions or issues:
 4. Deploy using [DEPLOYMENT_GUIDE.md](docs/DEPLOYMENT_GUIDE.md)
 
 **Happy coding! 🚀**
+
