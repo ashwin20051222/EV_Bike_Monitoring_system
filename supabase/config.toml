@@ -1,0 +1,8 @@
+project_id = "yoloracer-pet"
+
+[functions]
+use_prisma = false
+
+[storage]
+file_size_limit = 52428800
+

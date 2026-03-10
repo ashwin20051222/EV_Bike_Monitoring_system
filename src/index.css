@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    sans-serif;
+  color-scheme: light dark;
+}
+
+body {
+  @apply bg-white text-slate-900 dark:bg-slate-950 dark:text-slate-50;
+}
+
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
+
+.blur-overlay {
+  backdrop-filter: blur(6px);
+}
